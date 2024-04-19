@@ -10,6 +10,9 @@ Simple URL Shortener app which shortens urls.
 - Created as a full app instead of route in case of microservices hosting.
 
 
+![image](https://github.com/sarat9/tinyclick/assets/17333491/2b0919c6-479c-4b46-8093-87f9c3300dc1)
+
+
 
 # Steps to Run
 
